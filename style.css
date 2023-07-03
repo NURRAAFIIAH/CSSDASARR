@@ -1,0 +1,21 @@
+/* div { */
+    /* background-color: blue; */
+    /* width: 100; */
+/* } */
+
+/* a { */
+    /* background-color: blueviolet; */
+    /* width: 100px; */
+    /* height: 100px; */
+/* } */
+
+
+.navigasi {
+    background-color: aqua;
+}
+
+.main {
+    background-color: azure;
+}
+
+.main span {background-color: greenyellow;}
